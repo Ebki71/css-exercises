@@ -1,0 +1,19 @@
+.odd-numbers {
+    background-color: lightsalmon; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#Another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Bigger {
+    font-size: 24px;
+}
